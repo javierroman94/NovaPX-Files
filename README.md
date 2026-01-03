@@ -1,4 +1,11 @@
-# 🚀 Nova PX - Centro de Recursos y Configuración
+## 🚧 Estado del Proyecto: En Desarrollo (V 1.0.0-Beta)
+Actualmente estamos trabajando en la infraestructura del Launcher. 
+- [x] Sistema de autenticación.
+- [x] Validación de llaves por GitHub.
+- [ ] Subida oficial del ejecutable (Pendiente).
+- [ ] Pruebas de carga con 100 jugadores.
+- [ ]
+- [ ] # 🚀 Nova PX - Centro de Recursos y Configuración
 
 ![NovaPX Banner](https://img.shields.io/badge/Minecraft-Eventos_Especiales-blueviolet?style=for-the-badge&logo=minecraft)
 ![Version](https://img.shields.io/badge/Versión_Launcher-1.0.0-green?style=for-the-badge)
