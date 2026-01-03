@@ -4,7 +4,6 @@ Actualmente estamos trabajando en la infraestructura del Launcher.
 - [x] Validación de llaves por GitHub.
 - [ ] Subida oficial del ejecutable (Pendiente).
 - [ ] Pruebas de carga con 100 jugadores.
-- [ ]
 - [ ] # 🚀 Nova PX - Centro de Recursos y Configuración
 
 ![NovaPX Banner](https://img.shields.io/badge/Minecraft-Eventos_Especiales-blueviolet?style=for-the-badge&logo=minecraft)
