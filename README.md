@@ -49,7 +49,7 @@ Nuestra infraestructura es operada por un equipo de 8 especialistas dedicados a 
 
 | Miembro | Rol | Especialidad |
 | :--- | :--- | :--- |
-| **JavierRoman94** | Lead Developer | Arquitectura de Software & C# |
+| **javierroman94** | Lead Developer | Arquitectura de Software & C# |
 
 ---
 
