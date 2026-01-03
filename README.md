@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/javierroman94/NovaPX-Files/main/Assets/NovaPX.ico" width="100" height="100">
+  <h1>Nova PX - Event Launcher Infrastructure</h1>
+  
+  [![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)]()
+  [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-blue?style=for-the-badge&logo=minecraft)]()
+  [![Framework](https://img.shields.io/badge/Framework-WPF_.NET-purple?style=for-the-badge)]()
+</div>
+
 ## 🚧 Estado del Proyecto: En Desarrollo (V 1.0.0-Beta)
 Actualmente estamos trabajando en la infraestructura del Launcher. 
 - [x] Sistema de autenticación.
