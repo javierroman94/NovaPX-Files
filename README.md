@@ -3,7 +3,7 @@
   <h1>Nova PX - Event Launcher Infrastructure</h1>
   
   [![Version](https://img.shields.io/badge/Version-1.4.0--Stable-purple?style=for-the-badge)](https://github.com/javierroman94/NovaPX-Files/releases)
-  [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
+  [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-blue?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
   [![Status](https://img.shields.io/badge/Status-Live-green?style=for-the-badge)]()
 </div>
 
