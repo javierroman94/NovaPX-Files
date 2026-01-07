@@ -1,3 +1,6 @@
 {
-  "event_key": "NOVA-2027-PX"
+  "event_keys": {
+    "one_block": "ONEBLOCK-2026-PX",
+    "proximamente": "GADI-9922-PX",
+  }
 }
