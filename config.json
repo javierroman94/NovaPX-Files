@@ -4,13 +4,14 @@
   "eventos": [
     {
       "id": "one_block",
-      "nombre": "OneBlock 1000 dias  by LaosOneView",
+      "nombre": "OneBlock 1000 dias by LaosOneView",
       "minecraft_version": "1.21.11",
       "fabric_loader": "0.18.4",
       "modpack_version": "1.10.0",
-      "mods_url": "https://www.dropbox.com/scl/fi/u8o0dreyt3xcox1jianr0/modpack_v1.9.zip?rlkey=7ymil9qbs0gku9eufgzpi10pk&st=tlsbynax&dl=1",
-      "banner_url": "local", 
-      "activo": true
+      "mods_url": "https://www.dropbox.com/scl/fi/u8o0dreyt3xcox1jianr0/modpack_v1.9.zip?dl=1",
+      "banner_url": "local",
+      "activo": true,
+      "premium": false
     },
     {
       "id": "proximamente",
@@ -20,7 +21,8 @@
       "modpack_version": "0.0.0",
       "mods_url": "",
       "banner_url": "https://raw.githubusercontent.com/javierroman94/NovaPX-Files/main/Assets/proximamente_banner.png",
-      "activo": false
+      "activo": false,
+      "premium": true
     }
   ]
 }
